@@ -9,6 +9,7 @@
 * La remise du travail devra être effectuée par le portail des cours.
 * Tout travail remis en retard se verra attribué la note de 0.
 * Le *zip* devra inclure un README très bref listant les technologies/frameworks choisies par l'étudiant (et justifications si nécessaire) ainsi que le lien de l'application.
+* L'app sera évaluée strictement sous Google Chrome - en desktop.
 
 # Modalités techniques
 
