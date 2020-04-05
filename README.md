@@ -30,7 +30,7 @@ L'app devra donc supporter les fonctionnalités suivantes:
 
 # Interface
 
-Afin de faciliter votre travail, des maquettes d'interface ont été créées et sont disponibles à [ce lien](TODO). Ces maquettes sont subjectives, elles n'ont pas à être respectées à la lettre ou mêmes être utilisées, mais elles peuvent vous inspirer.
+Afin de faciliter votre travail, des maquettes d'interface ont été créées et sont disponibles à [ce lien](https://vincentsguin33545.invisionapp.com/public/share/5N133ZMQQ6#screens/477161117). Ces maquettes sont subjectives, elles n'ont pas à être respectées à la lettre ou mêmes être utilisées, mais elles peuvent vous inspirer.
 
 # Critères d'évaluation
 
