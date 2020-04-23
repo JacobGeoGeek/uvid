@@ -1,0 +1,6 @@
+ProjetGLO3112.code-workspace
+backend/.vscode/settings.json
+backend/venv/*
+backend/api/__pycache__
+backend/serviceApplication/__pycache__
+backend/__pycache__
